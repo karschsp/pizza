@@ -8,7 +8,7 @@ I'm certainly no expert, but after ten years of making pizzas, here's what I've 
 * FLOUR
 * HEAT
 
-Don't use all-purpose flour. Sure, you can if you want, but you'll be figthing an uphill battle. Use (Tipo 00)[http://www.amazon.com/gp/product/B004O8HWEG/ref=oh_details_o00_s00_i00?ie=UTF8&psc=1]. You can order it on Amazon or maybe find it in an Italian specialty store.
+Don't use all-purpose flour. Sure, you can if you want, but you'll be figthing an uphill battle. Use [Tipo 00](http://www.amazon.com/gp/product/B004O8HWEG/ref=oh_details_o00_s00_i00?ie=UTF8&psc=1). You can order it on Amazon or maybe find it in an Italian specialty store.
 
 ### Ingredients
 
@@ -30,6 +30,6 @@ I find that I need 2-3 cups flour per cup of water. It's not an exact science, i
 * Let the yeast poop for another hour or so.
 * After an hour, punch the dough down and knead for a few minutes.
  * Form a ball and roll it out like a boss!
-* Add a thin layer of sauce (Don Pepino)[http://www.donpepino.com/] and your cheese and (optional) toppings.
+* Add a thin layer of sauce [Don Pepino](http://www.donpepino.com/) and your cheese and (optional) toppings.
 * Crank your oven up as high (probably 550) as it will go and cook for 7-9 minutes.
 * stuff your face HARD!!!!!
